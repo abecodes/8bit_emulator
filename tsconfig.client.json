@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "es2015",
+		"target": "es2016",
+		"jsx": "react",
+		"jsxFactory": "h",
+		"skipLibCheck": true,
+		"moduleResolution": "node",
+		"outDir": "tmp"
+	},
+	"include": ["./client/index.tsx"],
+	"exclude": ["node_modules", "**/node_modules/*", "src"]
+}

@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"module": "none",
+		"target": "es2016",
+		"preserveConstEnums": true,
+		"skipLibCheck": true,
+		"outDir": "tmp",
+		"moduleResolution": "node",
+		"allowJs": true,
+		"esModuleInterop": true
+	},
+	"include": ["./src/index.ts"],
+	"exclude": ["node_modules", "**/node_modules/*", "client"]
+}

@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+cache/
+roms/
+.nyc_output/
+coverage/
+dist/
+out/
+Icon.iconset/
+stuff.md
+package.mac.js
+package.win.js

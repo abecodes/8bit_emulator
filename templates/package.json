@@ -1,0 +1,9 @@
+{
+	"name": "8bit_emulator",
+	"productName": "8bitEmulator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"author": "abe.codes",
+	"license": "UNLICENSE"
+}
